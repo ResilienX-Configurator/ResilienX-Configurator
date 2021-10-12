@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ResilienX-Configurator
+- 👀 I’m interested in configuring instances of FRAIHMWORK automatically!
